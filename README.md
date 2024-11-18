@@ -12,30 +12,23 @@ Training a neural network in order to classify email as spam or ham, and perform
 ---
 ### Semantic similarity
 
-Mapping words into vectors and explore their semantic similarities.
-[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](LINK WORD2VEC)
+Mapping words into vectors and exploring their semantic similarities.
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/cusiandrea/datascienceportfolio/blob/main/Spam_Detection.ipynb)
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://drive.google.com/file/d/1YfTMuKgk5wv8a7m4AKpFBLLsTOCpebLT/view?usp=sharing)
 
 ---
-### Detect Food Trends from Facebook Posts: Co-occurence Matrix, Lift and PPMI
+### Sentiment analysis
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/detect-food-trends-facebook.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/facebook-detect-food-trends)
-
-<div style="text-align: justify">First I build co-occurence matrices of ingredients from Facebook posts from 2011 to 2015. Then, to identify interesting and rare ingredient combinations that occur more than by chance, I calculate Lift and PPMI metrics. Lastly, I plot time-series data of identified trends to validate my findings. Interesting food trends have emerged from this analysis.</div>
-<br>
-<center><img src="images/fb-food-trends.png"></center>
-<br>
+Training a neural network in order to classify reviews as positive or negative.
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/cusiandrea/datascienceportfolio/blob/main/Spam_Detection.ipynb)
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://drive.google.com/file/d/1YfTMuKgk5wv8a7m4AKpFBLLsTOCpebLT/view?usp=sharing)
 
 ---
-### Detect Spam Messages: TF-IDF and Naive Bayes Classifier
+### Text classification
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/detect-spam-nlp.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/detect-spam-messages-nlp/blob/master/detect-spam-nlp.ipynb)
-
-<div style="text-align: justify">In order to predict whether a message is spam, first I vectorized text messages into a format that machine learning algorithms can understand using Bag-of-Word and TF-IDF. Then I trained a machine learning model to learn to discriminate between normal and spam messages. Finally, with the trained model, I classified unlabel messages into normal or spam.</div>
-<br>
-<center><img src="images/detect-spam-nlp.png"/></center>
-<br>
+Assigning a text to its category.
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/cusiandrea/datascienceportfolio/blob/main/Spam_Detection.ipynb)
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://drive.google.com/file/d/1YfTMuKgk5wv8a7m4AKpFBLLsTOCpebLT/view?usp=sharing)
 
 ---
 ## Data Science
