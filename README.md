@@ -2,7 +2,7 @@
 ---
 ## Natural Language Processing
 
-### Spam detection and analysis
+### Spam detection and text analysis
 
 Training a neural network in order to classify email as spam or ham, and perform analysis on emails' text such as topic modeling, semantic similarity and Named Entity Recognition.
 
@@ -10,13 +10,10 @@ Training a neural network in order to classify email as spam or ham, and perform
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://drive.google.com/file/d/1YfTMuKgk5wv8a7m4AKpFBLLsTOCpebLT/view?usp=sharing)
 
 ---
-### Detect Non-negative Airline Tweets: BERT for Sentiment Analysis
+### Semantic similarity
 
-[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1f32gj5IYIyFipoINiC8P3DvKat-WWLUK)
-
-<div style="text-align: justify">The release of Google's BERT is described as the beginning of a new era in NLP. In this notebook I'll use the HuggingFace's transformers library to fine-tune pretrained BERT model for a classification task. Then I will compare BERT's performance with a baseline model, in which I use a TF-IDF vectorizer and a Naive Bayes classifier. The transformers library helps us quickly and efficiently fine-tune the state-of-the-art BERT model and yield an accuracy rate 10% higher than the baseline model.</div>
-
-<center><img src="images/BERT-classification.png"/></center>
+Mapping words into vectors and explore their semantic similarities.
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](LINK WORD2VEC)
 
 ---
 ### Detect Food Trends from Facebook Posts: Co-occurence Matrix, Lift and PPMI
