@@ -60,5 +60,3 @@ Developing a model that recognizes handwritten charachters such as letters and n
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://drive.google.com/file/d/1YfTMuKgk5wv8a7m4AKpFBLLsTOCpebLT/view?usp=sharing)
 
 ---
-
-[LINK NLP SECTION](NLP-portfolio/NLP_index.md)
