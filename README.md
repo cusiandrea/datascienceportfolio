@@ -24,37 +24,10 @@ Training a neural network with recurrent layers in order to develop a multi-labe
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1cfNfYsQTjcURx0S4As8F5oVeYX8pOhhK?usp=sharing)
 
 ---
-### Text classification
+### Face detection
 
-Assigning a text to its category.
+Building a model able to detect faces in images, in order to develop a face detection system to be implemented in a consumer camera **without using pre-trained model**. The detection should also work with low computing resources.
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/cusiandrea/datascienceportfolio/blob/main/Spam_Detection.ipynb)
-[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://drive.google.com/file/d/1YfTMuKgk5wv8a7m4AKpFBLLsTOCpebLT/view?usp=sharing)
-
----
-## Deep Learning
-
-### Toxic comment detection
-
-Training a neural network in order to detect toxic social media comments. The model classifies text in a multilabel scenario, identifying 6 classes of toxicity.
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/cusiandrea/datascienceportfolio/blob/main/Spam_Detection.ipynb)
-[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://drive.google.com/file/d/1YfTMuKgk5wv8a7m4AKpFBLLsTOCpebLT/view?usp=sharing)
-
----
-### Transfer learning
-
-Fine tuning a pre-trained image recognition model in order to classify food vs non-food. 
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/cusiandrea/datascienceportfolio/blob/main/Spam_Detection.ipynb)
-[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://drive.google.com/file/d/1YfTMuKgk5wv8a7m4AKpFBLLsTOCpebLT/view?usp=sharing)
-
----
-### OCR
-
-Developing a model that recognizes handwritten charachters such as letters and number.
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/cusiandrea/datascienceportfolio/blob/main/Spam_Detection.ipynb)
-[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://drive.google.com/file/d/1YfTMuKgk5wv8a7m4AKpFBLLsTOCpebLT/view?usp=sharing)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/cusiandrea/datascienceportfolio/blob/main/project06.ipynb)
 
 ---
