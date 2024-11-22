@@ -31,7 +31,7 @@ Using PySpark and SparkSQL, a collection of Wikipedia documents is analysed in o
 )](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2568801973586722/1409992188268319/6559604646125484/latest.html)
 
 ---
-### Insurance cross-selling
+### Insurance cross-selling with imbalanced dataset
 
 Developing a machine learning model that predicts whether customers, who currently have health insurance, might be interested in an insurance policy for their vehicle.
 
