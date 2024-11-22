@@ -37,7 +37,18 @@ Using PySpark and SparkSQL, a collection of Wikipedia documents is analysed in o
 Tableau Superstore dataset analysis. Creating Tableau dashboards and a story in order to give insights on sales and profitability.
 
 Dashboard 1
+
 [![View on Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white
 )](https://public.tableau.com/views/Progettofinale_1/Dashboard_1_monitor?:language=it-IT&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+Dashboard 2
+
+[![View on Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white
+)](https://public.tableau.com/views/Progettofinaledataviz_Dashboard_1_fac/Dashboard_1_FocusItaly?:language=it-IT&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+Story
+
+[![View on Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white
+)](https://public.tableau.com/views/Progettofinaledataviz_Story/Story_Allocazionebudget?:language=it-IT&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
