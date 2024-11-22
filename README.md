@@ -28,7 +28,7 @@ Building a model able to detect faces in images, in order to develop a face dete
 Using PySpark and SparkSQL, a collection of Wikipedia documents is analysed in order to return descriptive statistics and to train a classification model by category.
 
 [![View on Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white
-)](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2568801973586722/1409992188268319/6559604646125484/latest.html)
+)](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2568801973586722/2613068582012475/6559604646125484/latest.html)
 
 ---
 ### Insurance cross-selling with imbalanced dataset
