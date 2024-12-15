@@ -38,6 +38,14 @@ Developing a machine learning model that predicts whether customers, who current
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/cusiandrea/datascienceportfolio/blob/main/project04_portfolio.ipynb)
 
 ---
+### Sentiment Analysis
+
+Performing sentiment analysis on movie reviews, using a trained model (Naive Bayes) and a pre-trained Spacy model.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/cusiandrea/datascienceportfolio/blob/main/Sentiment_Analysis_portfolio.ipynb)
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://drive.google.com/file/d/1F1t5I410RGwmX0BNOk_R4KhUkmdBy2p6/view?usp=sharing)
+
+---
 ### Superstore data-viz
 
 Tableau Superstore dataset analysis. Creating Tableau dashboards and a story in order to give insights on sales and profitability.
