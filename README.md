@@ -20,7 +20,7 @@ Training a neural network with recurrent layers in order to develop a multi-labe
 
 Building a model able to detect faces in images, in order to develop a face detection system to be implemented in a consumer camera **without using pre-trained model**. The detection should also work with low computing resources.
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/cusiandrea/datascienceportfolio/blob/main/project06.ipynb)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/cusiandrea/datascienceportfolio/blob/main/Face_detection.ipynb)
 
 ---
 ### Wikipedia Analysis
@@ -35,7 +35,7 @@ Using PySpark and SparkSQL, a collection of Wikipedia documents is analysed in o
 
 Developing a machine learning model that predicts whether customers, who currently have health insurance, might be interested in an insurance policy for their vehicle.
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/cusiandrea/datascienceportfolio/blob/main/project04_portfolio.ipynb)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/cusiandrea/datascienceportfolio/blob/main/Insurance_cross_selling.ipynb)
 
 ---
 ### Sentiment Analysis
