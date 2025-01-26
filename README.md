@@ -31,6 +31,8 @@ Building a model able to detect faces in images, in order to develop a face dete
 ---
 ### From LLM to virtual assistant
 
+![img_virtualassistant](img/virtualassistant1.jpg)
+
 Using LLMs from Hugging Face in order to build a chatting virtual assistant in Italian language.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/cusiandrea/datascienceportfolio/blob/main/Virtual_assistant.ipynb){:target="_blank"}
@@ -38,6 +40,8 @@ Using LLMs from Hugging Face in order to build a chatting virtual assistant in I
 
 ---
 ### Wikipedia Analysis
+
+![img_wiki](img/wiki1.png)
 
 Using PySpark and SparkSQL, a collection of Wikipedia documents is analysed in order to return descriptive statistics and to train a classification model by category.
 
@@ -47,12 +51,16 @@ Using PySpark and SparkSQL, a collection of Wikipedia documents is analysed in o
 ---
 ### Insurance cross-selling with imbalanced dataset
 
+![img_insurance](img/insurance1.JPG)
+
 Developing a machine learning model that predicts whether customers, who currently have health insurance, might be interested in an insurance policy for their vehicle.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/cusiandrea/datascienceportfolio/blob/main/Insurance_cross_selling.ipynb){:target="_blank"}
 
 ---
 ### Sentiment Analysis
+
+![img_sentiment](img/sentiment1.png)
 
 Performing sentiment analysis on movie reviews, using a trained model (Naive Bayes) and a pre-trained Spacy model.
 
@@ -62,6 +70,8 @@ Performing sentiment analysis on movie reviews, using a trained model (Naive Bay
 ---
 ### Transfer Learning
 
+![img_transfer](img/transfer1.JPG)
+
 A practical application of transfer learning to image classification.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/cusiandrea/datascienceportfolio/blob/main/Transfer_learning_portfolio.ipynb){:target="_blank"}
@@ -69,6 +79,8 @@ A practical application of transfer learning to image classification.
 
 ---
 ### Superstore data-viz
+
+![img_dataviz](img/dataviz1.png)
 
 Tableau Superstore dataset analysis. Creating Tableau dashboards and a story in order to give insights on sales and profitability.
 
