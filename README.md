@@ -20,7 +20,7 @@ Training a neural network with recurrent layers in order to develop a multi-labe
 
 Building a model able to detect faces in images, in order to develop a face detection system to be implemented in a consumer camera **without using pre-trained model**. The detection should also work with low computing resources.
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/cusiandrea/datascienceportfolio/blob/main/Face_detection.ipynb)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/cusiandrea/datascienceportfolio/blob/main/Face_detection.ipynb){:target="_blank"} 
 
 ---
 ### From LLM to virtual assistant
