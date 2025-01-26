@@ -2,6 +2,8 @@
 ---
 ### Spam detection and text analysis
 
+![img_spam](img/spam1.jpg)
+
 Training a neural network in order to classify email as spam or ham, and perform analysis on emails' text such as topic modeling, semantic similarity and Named Entity Recognition.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/cusiandrea/datascienceportfolio/blob/main/Spam_Detection_portfolio.ipynb){:target="_blank"} 
@@ -10,6 +12,8 @@ Training a neural network in order to classify email as spam or ham, and perform
 ---
 ### Toxic comment filter
 
+![img_toxic](img/toxic1.jpg)
+
 Training a neural network with recurrent layers in order to develop a multi-label classifier that identifies toxic social media comments. The model also specifies the kind of maliciousness of each comments (threat, obscenity, insult, etc)
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/cusiandrea/datascienceportfolio/blob/main/Toxic_Comments_Filter_portfolio.ipynb){:target="_blank"}
@@ -17,6 +21,8 @@ Training a neural network with recurrent layers in order to develop a multi-labe
 
 ---
 ### Face detection
+
+![img_face](img/face1.jpg)
 
 Building a model able to detect faces in images, in order to develop a face detection system to be implemented in a consumer camera **without using pre-trained model**. The detection should also work with low computing resources.
 
