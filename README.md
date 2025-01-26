@@ -23,6 +23,18 @@ Building a model able to detect faces in images, in order to develop a face dete
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/cusiandrea/datascienceportfolio/blob/main/Face_detection.ipynb)
 
 ---
+### From LLM to virtual assistant
+
+Using LLMs from Hugging Face in order to build a chatting virtual assistant in Italian language.
+
+<a href="https://github.com/cusiandrea/datascienceportfolio/blob/main/Virtual_assistant.ipynb" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub">
+</a>
+<a href="https://colab.research.google.com/drive/1-rspzkPMThHgFtj6ww_1CXjk1910m4oR?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="Run in Google Colab">
+</a>
+
+---
 ### Wikipedia Analysis
 
 Using PySpark and SparkSQL, a collection of Wikipedia documents is analysed in order to return descriptive statistics and to train a classification model by category.
