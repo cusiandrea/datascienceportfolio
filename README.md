@@ -100,3 +100,12 @@ Story
 )](https://public.tableau.com/views/Progettofinaledataviz_Story/Story_Allocazionebudget?:language=it-IT&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link){:target="_blank"}
 
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-F5BGH4JXDG"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-F5BGH4JXDG');
+</script>
