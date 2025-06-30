@@ -35,7 +35,6 @@ Building a model able to detect faces in images, in order to develop a face dete
 
 Using LLMs from Hugging Face in order to build a chatting virtual assistant in Italian language.
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/cusiandrea/datascienceportfolio/blob/main/Virtual_assistant.ipynb){:target="_blank"}
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1-rspzkPMThHgFtj6ww_1CXjk1910m4oR?usp=sharing){:target="_blank"}
 
 ---
