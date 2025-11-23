@@ -1,5 +1,15 @@
 # Data Science Portfolio
 ---
+### LLM fine tuning for sentiment analysis (in Italian)
+
+![img_spam](img/spam1.jpg)
+
+A pre-trained Hugging Face LLM is fine-tuned in order to classify sentiment in Italian language tweets.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/cusiandrea/datascienceportfolio/blob/main/Spam_Detection_portfolio.ipynb){:target="_blank"} 
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://drive.google.com/file/d/1QN6i-NVrJkwLLridWYNZ_du97bijEl87/view?usp=sharing){:target="_blank"} 
+
+---
 ### Spam detection and text analysis
 
 ![img_spam](img/spam1.jpg)
