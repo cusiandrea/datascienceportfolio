@@ -2,7 +2,7 @@
 ---
 ### LLM fine tuning for sentiment analysis (in Italian)
 
-![img_spam](img/spam1.jpg)
+![img_spam](img/hf_sentiment_.png)
 
 A pre-trained Hugging Face LLM is fine-tuned in order to classify sentiment in Italian language tweets.
 
