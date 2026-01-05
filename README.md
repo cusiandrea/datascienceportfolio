@@ -19,6 +19,16 @@ Training a neural network in order to classify email as spam or ham, and perform
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://drive.google.com/file/d/1QN6i-NVrJkwLLridWYNZ_du97bijEl87/view?usp=sharing){:target="_blank"} 
 
 ---
+### Trade data monitoring dashboard
+
+![img_spam](img/dataviz_eu_import.png)
+
+Mapping ceramic tiles imports in the European Union.
+
+[![View on Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white
+)](https://public.tableau.com/shared/8BYWJ3T32?:display_count=n&:origin=viz_share_link){:target="_blank"}
+
+---
 ### Toxic comment filter
 
 ![img_toxic](img/toxic1.jpg)
